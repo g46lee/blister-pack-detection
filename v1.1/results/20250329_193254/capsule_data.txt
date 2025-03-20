@@ -1,0 +1,15 @@
+Status: Pass
+
+Expected count: 10
+Detected count: 10
+Missing count: 0
+Capsule 1 - Position: [881.50, 975.50, 265.00, 366.00],Size (Area): 73833.00 pixels
+Capsule 2 - Position: [884.50, 1784.50, 262.00, 378.00],Size (Area): 71124.00 pixels
+Capsule 3 - Position: [1332.50, 965.50, 247.00, 375.00],Size (Area): 74876.00 pixels
+Capsule 4 - Position: [1344.50, 1783.50, 237.00, 386.00],Size (Area): 74294.00 pixels
+Capsule 5 - Position: [1803.50, 960.50, 230.00, 379.00],Size (Area): 71416.00 pixels
+Capsule 6 - Position: [1813.50, 1788.50, 229.00, 372.00],Size (Area): 69668.00 pixels
+Capsule 7 - Position: [2275.50, 971.50, 227.00, 368.00],Size (Area): 70733.00 pixels
+Capsule 8 - Position: [2277.50, 1786.50, 225.00, 376.00],Size (Area): 70382.00 pixels
+Capsule 9 - Position: [2730.50, 964.50, 262.00, 374.00],Size (Area): 72965.00 pixels
+Capsule 10 - Position: [2747.50, 1796.50, 231.00, 364.00],Size (Area): 69683.00 pixels
